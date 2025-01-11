@@ -5,4 +5,4 @@
 
 **prva stvar** , _treba krenuti od osnovnih stvari_, ~ne on kraja~ , **_nego od pocetka_** , mnogo kul  <sub> stvari </sub>  se mooze nauciti, kada se stvari uce  <ins> sa razumevanjem </ins>. 
 
-
+![Description of the image](tekica_programer.jpeg)
